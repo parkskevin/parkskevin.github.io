@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [](#header-1)Privacy Policy
+# [](#header-1)[Privacy Policy](privacy.md)
 
 This privacy policy governs your use of the software application Snarlo (“Application”) for mobile devices that was created by Kevin Parks. The Application provides simple text-based note taking means for its users.
  
