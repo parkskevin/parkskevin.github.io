@@ -265,7 +265,7 @@ a:hover { text-decoration: underline; }
 @media screen and (max-width: 42em) { .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; }
   .btn + .btn { margin-top: 1rem; margin-left: 0; } }
 
-.page-header { color: #99dbd0; text-align: center; background-color: #A562A5; background-image: url("../images/top_teeth.png"); background-position: top center; background-size: contain; background-repeat: no-repeat;}
+.page-header { color: #99dbd0; text-align: center; background-color: #A562A5; background-position: top center; background-size: contain; background-repeat: no-repeat;}
 .project-name { color: #fff; width: 60%; left: 0; right:0; margin: 0 auto; margin-top: 50px;}
 
 .project-tagline { color: #fff; width: 100%; left: 0; right:0; margin: 0 auto; }
